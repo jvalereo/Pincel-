@@ -1,4 +1,4 @@
-# Mouse, Projeto Orientação Objeto
+# Pincel, Projeto Orientação Objeto
 
 <a href="#">
 <img align="center"  alt="jonas-Layout" height ="400" width ="650" src ="https://user-images.githubusercontent.com/25933386/211168359-3f90eac7-4608-49b0-a3c6-25b2f682fcef.JPG"></img>
@@ -24,7 +24,7 @@
 
 # Sobre o Projeto
 
-- Mouse, projeto Orientação objeto em C#
+- Pincel, projeto Orientação objeto em C#
 - Treinamento e atualização no aprendizado em programação orientado objeto
 - Treinamento , aprendendo a desenvolver, attributos, construtores, metodos, organização de classe em C#.
 - Tenho formação Técnico em informática, mas sempre estou me aprimorando na aréa de teconologia.
